@@ -1,0 +1,22 @@
+.card {
+  transition: transform 0.2s;
+  border: none;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.card-body {
+  padding-bottom: 1rem;
+}
+
+.btn-sm {
+  min-width: 38px;
+}
+
+.card-buttons {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}

@@ -1,0 +1,21 @@
+.card{
+  background-color: transparent;
+  border: none;
+
+}
+
+.card-body{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 127, 80, 0.249);
+  border-radius: 20px;
+  width: 50%;
+  margin-top: 60px;
+}
+
+.btn{
+  border: 20px;
+  color: white;
+  border-radius: 20px;
+}
